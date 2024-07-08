@@ -10,7 +10,7 @@ const formJson = {
           targetMarker: {
             name: '',
             width: 12,
-            height: 8
+            height: 9
           },
           connection: true,
           strokeDasharray: '10, 5',
